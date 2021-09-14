@@ -1,0 +1,777 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 16332 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\Julaxe\Documents\dev\Unity\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Julaxe/Documents/dev/GBC/GameEnginelll/Game-Engines-III-Labs/Labs
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49392
+Successfully changed project path to: C:/Users/Julaxe/Documents/dev/GBC/GameEnginelll/Game-Engines-III-Labs/Labs
+C:/Users/Julaxe/Documents/dev/GBC/GameEnginelll/Game-Engines-III-Labs/Labs
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Users/Julaxe/Documents/dev/Unity/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Julaxe/Documents/dev/GBC/GameEnginelll/Game-Engines-III-Labs/Labs/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     4075 MB
+    Driver:   27.20.22001.14011
+Initialize mono
+Mono path[0] = 'C:/Users/Julaxe/Documents/dev/Unity/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/Julaxe/Documents/dev/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/Julaxe/Documents/dev/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/Julaxe/Documents/dev/Unity/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.110987 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 35.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.612 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.039700 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 35.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.572 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 3.802900 ms (FindLiveObjects: 0.853000 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.698900 ms  DeleteObjects: 0.165400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Top Down Adventure Assets/Visuals/HUD/menu-cursor.png
+  artifactKey: Guid(6953888e603994d79907afa53b0cea02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/HUD/menu-cursor.png using Guid(6953888e603994d79907afa53b0cea02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ba357066b03920af1cd1a33c32b6d21') in 0.107326 seconds
+  Import took 0.112133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/eye.png
+  artifactKey: Guid(6ba7c1fd55b0e4747bf78e801332f4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/eye.png using Guid(6ba7c1fd55b0e4747bf78e801332f4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93cb474c51cddaa73e3c923184ec47d') in 0.012295 seconds
+  Import took 0.015910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/HUD/HUD-div.png
+  artifactKey: Guid(dd1421923bfa24b99b19d65ed6aae74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/HUD/HUD-div.png using Guid(dd1421923bfa24b99b19d65ed6aae74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea186f7becb3272b441fa977b292b76') in 0.012400 seconds
+  Import took 0.015415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS
+  artifactKey: Guid(98051adc007eb4b15bd97496309f5f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS using Guid(98051adc007eb4b15bd97496309f5f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c101cf5b9fd104d3c56253d2676abea') in 0.005608 seconds
+  Import took 0.008549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT
+  artifactKey: Guid(a1c762fa3081d43b8aced71e6a103b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT using Guid(a1c762fa3081d43b8aced71e6a103b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bcce7036c6be2d0110596582b9a30b7') in 0.006254 seconds
+  Import took 0.009372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals
+  artifactKey: Guid(18e176040252547b0b2ae7537d361325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals using Guid(18e176040252547b0b2ae7537d361325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd64c0a1954de807dacae40b1f63ca8') in 0.005656 seconds
+  Import took 0.009979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/HUD
+  artifactKey: Guid(caca9aca37aae414e827c26a475930ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/HUD using Guid(caca9aca37aae414e827c26a475930ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600a125510064f4849226db63a988da8') in 0.005282 seconds
+  Import took 0.008993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/HUD/hud-tileset.png
+  artifactKey: Guid(ba4c1b66a6fed40839361add6604a19c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/HUD/hud-tileset.png using Guid(ba4c1b66a6fed40839361add6604a19c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34fb02e2fa0df3af7990ae75ea9b648c') in 0.014346 seconds
+  Import took 0.017719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/cave-trap/1.png
+  artifactKey: Guid(f18b765a6f15c40428cd3ba058609e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/cave-trap/1.png using Guid(f18b765a6f15c40428cd3ba058609e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '589404adc1e5e3c8be73163a821a7c77') in 0.016434 seconds
+  Import took 0.019728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/cave-trap/2.png
+  artifactKey: Guid(59f8be9ac32f44aa9b21128c25814868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/cave-trap/2.png using Guid(59f8be9ac32f44aa9b21128c25814868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275320cc4c8422c3609475f18dd3a06b') in 0.009423 seconds
+  Import took 0.013272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/cave-trap
+  artifactKey: Guid(a66c11019c41944f499b59030fca74fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/cave-trap using Guid(a66c11019c41944f499b59030fca74fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a0553a0f8540d9d15a212caeb878b0') in 0.005673 seconds
+  Import took 0.008579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sunset.png
+  artifactKey: Guid(6b5e1946610c0427daba78d1c127a071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sunset.png using Guid(6b5e1946610c0427daba78d1c127a071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16488176ef4e6ed74e99f4dc75ec4e6f') in 0.010158 seconds
+  Import took 0.013513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/waterfall
+  artifactKey: Guid(67afd4aec55ae4a01843d54646d7cae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/waterfall using Guid(67afd4aec55ae4a01843d54646d7cae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39c6fb2d3342e03b2740048a1e736ed') in 0.005325 seconds
+  Import took 0.008966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/rope-cave.png
+  artifactKey: Guid(44ca2818e5fe248209ff90a29631dacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/rope-cave.png using Guid(44ca2818e5fe248209ff90a29631dacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5ac395b308219319639f099f580e5b') in 0.011480 seconds
+  Import took 0.016188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.146131 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/tilesets
+  artifactKey: Guid(0753475e944bb4cd3bfe8ee0bb13d7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/tilesets using Guid(0753475e944bb4cd3bfe8ee0bb13d7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bccd6cf27a8e36c2b8d2dd8c2445e67') in 0.005537 seconds
+  Import took 0.009055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.196354 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea
+  artifactKey: Guid(3dbeff3537e9144d9a88198d613762ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea using Guid(3dbeff3537e9144d9a88198d613762ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f6103331ea7bc34d667aff4f261fb9') in 0.005111 seconds
+  Import took 0.008552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.007776 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/tilesets/dungeon-tileset.png
+  artifactKey: Guid(f15472e0666d044db9bfb88bc170ad9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/tilesets/dungeon-tileset.png using Guid(f15472e0666d044db9bfb88bc170ad9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95033a4c7e3f003b62c5130c03332a53') in 0.011833 seconds
+  Import took 0.015313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/tilesets/tileset-world.png
+  artifactKey: Guid(b8814c83d33f044eaa43a507df945000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/tilesets/tileset-world.png using Guid(b8814c83d33f044eaa43a507df945000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9251b3aff1e7341d93597819b20103ea') in 0.011378 seconds
+  Import took 0.014503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.516406 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/sea1.png
+  artifactKey: Guid(6fce5a0dfaf4449429e73bdd45a41920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/sea1.png using Guid(6fce5a0dfaf4449429e73bdd45a41920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1aa35df54c2f0041e24c3f9ab6185f') in 0.012751 seconds
+  Import took 0.015968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/shore2.png
+  artifactKey: Guid(21e1004862d0248d09d75a769d66f9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/shore2.png using Guid(21e1004862d0248d09d75a769d66f9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8729f6fb72cf44627419b0a8e5ac07') in 0.009867 seconds
+  Import took 0.012964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/sea3.png
+  artifactKey: Guid(0a6b211fa7f564124a73161b77f6ea89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/sea3.png using Guid(0a6b211fa7f564124a73161b77f6ea89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e0c68faa92fa84793103057b5028eb') in 0.010191 seconds
+  Import took 0.013875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/shore1.png
+  artifactKey: Guid(cf2f1e4b1ea0b4468a465e02e657ebff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/shore1.png using Guid(cf2f1e4b1ea0b4468a465e02e657ebff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a9df66e8d0de650b95c5365c58f414') in 0.009684 seconds
+  Import took 0.013218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/shore4.png
+  artifactKey: Guid(456b74042e7054ff8b720e5d806d8aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/shore4.png using Guid(456b74042e7054ff8b720e5d806d8aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c1a13d6694c6c5b065c7ed887013c5') in 0.010623 seconds
+  Import took 0.013566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/shore3.png
+  artifactKey: Guid(2d6ffd36bbd3242b49a183cea67bd712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/shore3.png using Guid(2d6ffd36bbd3242b49a183cea67bd712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b561909b8717336c71542911e6a45b5') in 0.012350 seconds
+  Import took 0.015624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/sea2.png
+  artifactKey: Guid(dd564ae3b33bb46c9b5194948f9fb824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/sea2.png using Guid(dd564ae3b33bb46c9b5194948f9fb824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '193ac9acafb0b587ef9faaef74ade9ed') in 0.010908 seconds
+  Import took 0.014155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/sea4.png
+  artifactKey: Guid(6260eda3c748541d098d04d939426866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/sea/sea4.png using Guid(6260eda3c748541d098d04d939426866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5748856a5be198342ebaaf50b3b7d51d') in 0.014725 seconds
+  Import took 0.017549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.618076 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/waterfall/1.png
+  artifactKey: Guid(17c9beae7cdf54b60ac98cb4ccbb214d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/waterfall/1.png using Guid(17c9beae7cdf54b60ac98cb4ccbb214d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7deaba83494143d1c62ae70cd7581ba') in 0.009599 seconds
+  Import took 0.012852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/waterfall/3.png
+  artifactKey: Guid(97d852ae2c4ec4fbab99a26483151dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/waterfall/3.png using Guid(97d852ae2c4ec4fbab99a26483151dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bad3b1d1f9e4bfc8e4882e5dbf2d72e') in 0.010049 seconds
+  Import took 0.013180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/waterfall/2.png
+  artifactKey: Guid(f4ada3c98cb59417fae316f6fc0d6910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/ENVIRONMENT/waterfall/2.png using Guid(f4ada3c98cb59417fae316f6fc0d6910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c95222f3d919c0025514bbc942c11fd8') in 0.010696 seconds
+  Import took 0.013612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.573525 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player
+  artifactKey: Guid(6149e7df742ca49de8541302ba1869a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player using Guid(6149e7df742ca49de8541302ba1869a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac0abc58fbff1ce4574a39b51630e11') in 0.005997 seconds
+  Import took 0.009635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037266 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png
+  artifactKey: Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png using Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9d0969b6767853c69ab94dedbad88e4') in 0.019518 seconds
+  Import took 0.023131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero3.png
+  artifactKey: Guid(bdcdc3843a6a8425d81b0583faf6e314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero3.png using Guid(bdcdc3843a6a8425d81b0583faf6e314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a134107b9d7bfa872d205b9d2ff97b') in 0.016474 seconds
+  Import took 0.019363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero7.png
+  artifactKey: Guid(63a766a7f307f49409668b84d9dd5cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero7.png using Guid(63a766a7f307f49409668b84d9dd5cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c20fc3bb5f6e062ad33efa64b07bf5') in 0.015366 seconds
+  Import took 0.018596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero13.png
+  artifactKey: Guid(27f23eab49f3b418e91095d09e5f8a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero13.png using Guid(27f23eab49f3b418e91095d09e5f8a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08099bfe2c722405cb0d0d1205e9f22a') in 0.014908 seconds
+  Import took 0.018679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero5.png
+  artifactKey: Guid(52d98e63e7cbd42588ef0271b3435a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero5.png using Guid(52d98e63e7cbd42588ef0271b3435a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754e8e2857eeaf5a15107a82e73a8631') in 0.014575 seconds
+  Import took 0.017747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero11.png
+  artifactKey: Guid(014025c11e3b5474191e83f66dd5f8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero11.png using Guid(014025c11e3b5474191e83f66dd5f8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e90ccd71dc2419912dcc9233315d4104') in 0.015675 seconds
+  Import took 0.018454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero2.png
+  artifactKey: Guid(22e2e266842ee4be99cc17a825471e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero2.png using Guid(22e2e266842ee4be99cc17a825471e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ad294b4562bf435b561630f010f59f') in 0.014234 seconds
+  Import took 0.017392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero15.png
+  artifactKey: Guid(3aef8abc03ec1473f880af90e3a363b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero15.png using Guid(3aef8abc03ec1473f880af90e3a363b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa778adccee814b3899f12efab237ec1') in 0.016222 seconds
+  Import took 0.020258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero4.png
+  artifactKey: Guid(cb4963a6ba6b54620a996fd8cace9c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero4.png using Guid(cb4963a6ba6b54620a996fd8cace9c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4c23dd87950a628e73902d1a59c17c') in 0.014775 seconds
+  Import took 0.018552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero10.png
+  artifactKey: Guid(13fdaf175205e4b59bae159aecf31378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero10.png using Guid(13fdaf175205e4b59bae159aecf31378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c862372ef1a7f954fd1a790e90bef1') in 0.014882 seconds
+  Import took 0.018072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero12.png
+  artifactKey: Guid(53e054d5dfb5a40b68499e10f70d27b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero12.png using Guid(53e054d5dfb5a40b68499e10f70d27b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ae9d8b1bc39a63841fbc860af6e845') in 0.015385 seconds
+  Import took 0.019381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero6.png
+  artifactKey: Guid(5fc61cef57bfe4c9395f3c76753f4ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero6.png using Guid(5fc61cef57bfe4c9395f3c76753f4ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81cebbfebff327ed676ce64f085a0cd') in 0.014875 seconds
+  Import took 0.017990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero8.png
+  artifactKey: Guid(692a95cc32e5244afb81ab5da96f50b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero8.png using Guid(692a95cc32e5244afb81ab5da96f50b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c41204028dc9adf58056ed4571c61e6') in 0.017122 seconds
+  Import took 0.020576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero9.png
+  artifactKey: Guid(4643618a4cdd243cfbfdc8c12a87fb21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero9.png using Guid(4643618a4cdd243cfbfdc8c12a87fb21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4ba45752ef7ef6c2a3726b9698d5d0') in 0.014744 seconds
+  Import took 0.017698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero14.png
+  artifactKey: Guid(4d508d8d94fd047669c24145927db629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero14.png using Guid(4d508d8d94fd047669c24145927db629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba6a45e76c691b68730091bd4044e42') in 0.017365 seconds
+  Import took 0.020205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.080585 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png
+  artifactKey: Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png using Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f79d547c56600e20998aa38aedac0c') in 0.009435 seconds
+  Import took 0.013488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005427 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png
+  artifactKey: Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png using Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f79d547c56600e20998aa38aedac0c') in 0.007779 seconds
+  Import took 0.011497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.200783 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png
+  artifactKey: Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png using Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e8d0af4a681c3f94186670cdc8468a') in 0.009778 seconds
+  Import took 0.013470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005575 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png
+  artifactKey: Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png using Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e8d0af4a681c3f94186670cdc8468a') in 0.008519 seconds
+  Import took 0.012132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.618884 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png
+  artifactKey: Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png using Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3018c2d1c47565eea6b2fdb6c627a9b9') in 0.008856 seconds
+  Import took 0.012338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005601 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png
+  artifactKey: Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero1.png using Guid(78d03ce1d36c540d5a183e4b042d3afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3018c2d1c47565eea6b2fdb6c627a9b9') in 0.006798 seconds
+  Import took 0.009856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.932738 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero11.png
+  artifactKey: Guid(014025c11e3b5474191e83f66dd5f8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero11.png using Guid(014025c11e3b5474191e83f66dd5f8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7763428b1b551e0d00324f56daf637') in 0.009563 seconds
+  Import took 0.013257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014933 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero2.png
+  artifactKey: Guid(22e2e266842ee4be99cc17a825471e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero2.png using Guid(22e2e266842ee4be99cc17a825471e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb52d9a4ddda2297bb4e0edd9abbb285') in 0.010233 seconds
+  Import took 0.013780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero3.png
+  artifactKey: Guid(bdcdc3843a6a8425d81b0583faf6e314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero3.png using Guid(bdcdc3843a6a8425d81b0583faf6e314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441364353101b4ea5631dc3ca66235a8') in 0.009099 seconds
+  Import took 0.013170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero7.png
+  artifactKey: Guid(63a766a7f307f49409668b84d9dd5cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero7.png using Guid(63a766a7f307f49409668b84d9dd5cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11488645ed1070ee94a9b0ef7c8873f') in 0.013354 seconds
+  Import took 0.017179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero13.png
+  artifactKey: Guid(27f23eab49f3b418e91095d09e5f8a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero13.png using Guid(27f23eab49f3b418e91095d09e5f8a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e142b7ca4eb4f55bdeaa3ddc073d71bc') in 0.010322 seconds
+  Import took 0.014044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero5.png
+  artifactKey: Guid(52d98e63e7cbd42588ef0271b3435a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero5.png using Guid(52d98e63e7cbd42588ef0271b3435a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '375ffeb205fb7e04c6d29b54e5ffe801') in 0.011917 seconds
+  Import took 0.016139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero15.png
+  artifactKey: Guid(3aef8abc03ec1473f880af90e3a363b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero15.png using Guid(3aef8abc03ec1473f880af90e3a363b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90815d19079e809941219f34f6dc63a5') in 0.013588 seconds
+  Import took 0.017348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero4.png
+  artifactKey: Guid(cb4963a6ba6b54620a996fd8cace9c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero4.png using Guid(cb4963a6ba6b54620a996fd8cace9c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e840a554006683824d4aba3e89e5a8b') in 0.015518 seconds
+  Import took 0.019377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero10.png
+  artifactKey: Guid(13fdaf175205e4b59bae159aecf31378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero10.png using Guid(13fdaf175205e4b59bae159aecf31378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f325bcb91d070e26b1c8f7a90d3400e4') in 0.009419 seconds
+  Import took 0.012670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero12.png
+  artifactKey: Guid(53e054d5dfb5a40b68499e10f70d27b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero12.png using Guid(53e054d5dfb5a40b68499e10f70d27b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0357f2b13e22ea870693c83b64a539f') in 0.016421 seconds
+  Import took 0.019973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero6.png
+  artifactKey: Guid(5fc61cef57bfe4c9395f3c76753f4ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero6.png using Guid(5fc61cef57bfe4c9395f3c76753f4ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e52204106d99520d5412214ba3fbf4') in 0.010677 seconds
+  Import took 0.014425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero8.png
+  artifactKey: Guid(692a95cc32e5244afb81ab5da96f50b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero8.png using Guid(692a95cc32e5244afb81ab5da96f50b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f439b8002143e862dcc99fdf76ca7a04') in 0.013716 seconds
+  Import took 0.017012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero9.png
+  artifactKey: Guid(4643618a4cdd243cfbfdc8c12a87fb21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero9.png using Guid(4643618a4cdd243cfbfdc8c12a87fb21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95afded7e7ac7dd4e65a6aa07499fe3') in 0.010717 seconds
+  Import took 0.014412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero14.png
+  artifactKey: Guid(4d508d8d94fd047669c24145927db629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/CHARACTERS/player/hero14.png using Guid(4d508d8d94fd047669c24145927db629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce32cb2ff40b620da6b5ddf470108255') in 0.014259 seconds
+  Import took 0.018188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.801739 seconds.
+  path: Assets/CharacterMovement.cs
+  artifactKey: Guid(041635fea9ef46b4880a1e20575d0afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CharacterMovement.cs using Guid(041635fea9ef46b4880a1e20575d0afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9723b5dda58dc502ff240276ce8dcc7e') in 0.010041 seconds
+  Import took 0.013526 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.029087 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.048 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 3.082900 ms (FindLiveObjects: 0.358500 ms CreateObjectMapping: 0.053800 ms MarkObjects: 2.503200 ms  DeleteObjects: 0.166000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000943 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2277.
+Total: 2.098500 ms (FindLiveObjects: 0.283800 ms CreateObjectMapping: 0.045900 ms MarkObjects: 1.646100 ms  DeleteObjects: 0.121400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 923.843768 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f6a1853b736837ecfb0820a881449cb') in 0.008795 seconds
+  Import took 0.011857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/CharacterMovement.cs
+  artifactKey: Guid(041635fea9ef46b4880a1e20575d0afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CharacterMovement.cs using Guid(041635fea9ef46b4880a1e20575d0afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6379fb7cc75c62a32ff6201f4edfc69a') in 0.004811 seconds
+  Import took 0.007033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.564029 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(7a5f7a9d9a8ced9478c02ca89aacd96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(7a5f7a9d9a8ced9478c02ca89aacd96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f88aa54a0f6511d935ec0bffe85b23') in 0.006505 seconds
+  Import took 0.009887 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000857 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 3.005900 ms (FindLiveObjects: 0.575500 ms CreateObjectMapping: 0.063700 ms MarkObjects: 2.228000 ms  DeleteObjects: 0.136100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000731 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 2.348700 ms (FindLiveObjects: 0.312100 ms CreateObjectMapping: 0.041400 ms MarkObjects: 1.885400 ms  DeleteObjects: 0.108300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000867 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 2.219700 ms (FindLiveObjects: 0.270700 ms CreateObjectMapping: 0.051900 ms MarkObjects: 1.775800 ms  DeleteObjects: 0.120500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.778652 seconds.
+  path: Assets/Scripts/CharacterMovement.cs
+  artifactKey: Guid(041635fea9ef46b4880a1e20575d0afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CharacterMovement.cs using Guid(041635fea9ef46b4880a1e20575d0afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab744655bed171672935a598123514b') in 0.005421 seconds
+  Import took 0.010216 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000846 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 2.054000 ms (FindLiveObjects: 0.283100 ms CreateObjectMapping: 0.047200 ms MarkObjects: 1.623600 ms  DeleteObjects: 0.099000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1032.690163 seconds.
+  path: Assets/Top Down Adventure Assets/Visuals/FX/shot.png
+  artifactKey: Guid(c10da56129ffc49f8a8c11a022f95018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top Down Adventure Assets/Visuals/FX/shot.png using Guid(c10da56129ffc49f8a8c11a022f95018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60e291cdb8bbdfffcca246670c94f21') in 0.061067 seconds
+  Import took 0.064696 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000865 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.766 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2298.
+Total: 2.532000 ms (FindLiveObjects: 0.319300 ms CreateObjectMapping: 0.043000 ms MarkObjects: 2.049200 ms  DeleteObjects: 0.119000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
