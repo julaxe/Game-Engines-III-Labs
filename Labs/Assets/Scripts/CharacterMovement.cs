@@ -7,29 +7,21 @@ public class CharacterMovement : MonoBehaviour
     [SerializeField]
     private float Fspeed;
 
+    private Vector3 newVelocity;
+
+    private Rigidbody2D rb;
+
     void Start()
     {
-        
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
-    void Update()
+    
+    private void FixedUpdate()
     {
-        if(Input.GetKey(KeyCode.W))
-        {
-            transform.position += Vector3.up * Time.deltaTime * Fspeed; 
-        }
-        if (Input.GetKey(KeyCode.A))
-        {
-            transform.position += Vector3.left * Time.deltaTime * Fspeed;
-        }
-        if (Input.GetKey(KeyCode.S))
-        {
-            transform.position += Vector3.down * Time.deltaTime * Fspeed;
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            transform.position += Vector3.right * Time.deltaTime * Fspeed;
-        }
+        float inputX = Input.GetAxis("Horizontal");
+        float inputY = Input.GetAxis("Vertical");
+        rb.velocity = new Vector2(inputX, inputY) * Fspeed * Time.fixedDeltaTime;
     }
 }
