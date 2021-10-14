@@ -32,7 +32,7 @@ public class CharacterMovement : MonoBehaviour
         {
             if(rb.velocity != Vector2.zero) //if I'm moving
             {
-                if(Random.Range(0,100) == 0) // 1/50 chance every frame to encounter a battle
+                if(Random.Range(0,100) == 0) // 1/100 chance every frame to encounter a battle
                 {
                     battleManager.StartBattle();
                 }
