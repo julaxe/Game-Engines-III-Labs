@@ -10,7 +10,6 @@ public class SaveAndLoadPlayer : MonoBehaviour
     {
         public Vector3 PlayerPosition;
         public Vector3 CameraPosition;
-
     }
     [SerializeField]
     private GameObject player;
@@ -22,6 +21,7 @@ public class SaveAndLoadPlayer : MonoBehaviour
     void Start()
     {
         path = Application.dataPath + Path.DirectorySeparatorChar + "PlayerPosition.txt";
+        LoadCurrentPosition();
     }
 
     // Update is called once per frame
